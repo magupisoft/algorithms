@@ -1,4 +1,6 @@
-# Implementation of known algorithms for having fun and practing
-### Manuel Gutiérrez Pineda (MaGuPi)
-*Merge Sort -> [a relative link](MergerSorter.cs)
-*Quick Sort -> [a relative link](QuickSorter.cs)
+## Implementation of different algorithms for having fun practing
+#### Manuel Gutiérrez Pineda (MaGuPi)
+
+* [Merge Sort](MergeSorter.cs)
+
+* [Quick Sort](QuickSorter.cs)
